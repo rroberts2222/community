@@ -225,6 +225,8 @@ areas:
     github: ctlong
   - name: Matthew Kocher
     github: mkocher
+  - name: Rebecca Roberts
+    github: rroberts2222
   repositories:
   - cloudfoundry/bosh-system-metrics-forwarder-release
   - cloudfoundry/cf-drain-cli
